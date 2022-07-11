@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorischair, an architect .
+- 👋 Hi, I’m D. Stephanie @dorischair, an architect .
 - 👀 I’m interested in combining coding with art designing and architectural engineering.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
